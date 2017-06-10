@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Mogra');
+
+body {
+    background-color: lightblue;
+}
+
+.content .inner {
+	background: #19CBC8;
+	font-family: "Mogra"
+}
